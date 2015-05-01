@@ -1,0 +1,117 @@
+{
+  "abbrev": {
+    "1.0.5": "5d8257bd9ebe435e698b2fa431afde4fe7b10b03"
+  },
+  "asap": {
+    "1.0.0": "b2a45da5fdfa20b0496fc3768cc27c12fa916a7d"
+  },
+  "balanced-match": {
+    "0.2.0": "38f6730c03aab6d5edbb52bd934885e756d71674"
+  },
+  "brace-expansion": {
+    "1.1.0": "c9b7d03c03f37bc704be100e522b40db8f6cfcd9"
+  },
+  "concat-map": {
+    "0.0.1": "d8a96bd77fd68df7793a73036a3ba0d5405d477b"
+  },
+  "config-chain": {
+    "1.1.8": "0943d0b7227213a20d4eaff4434f4a1c0a052cad"
+  },
+  "debuglog": {
+    "1.0.1": "aa24ffb9ac3df9a2351837cfb2d279360cd78492"
+  },
+  "dezalgo": {
+    "1.0.1": "12bde135060807900d5a7aebb607c2abb7c76937"
+  },
+  "github-url-from-git": {
+    "1.4.0": "285e6b520819001bde128674704379e4ff03e0de"
+  },
+  "github-url-from-username-repo": {
+    "1.0.2": "7dd79330d2abe69c10c2cef79714c97215791dfa"
+  },
+  "glob": {
+    "5.0.5": "784431e4e29a900ae0d47fba6aa1c7f16a8e7df7"
+  },
+  "graceful-fs": {
+    "3.0.6": "dce3a18351cb94cdc82e688b2e3dd2842d1b09bb"
+  },
+  "inflight": {
+    "1.0.4": "6cbb4521ebd51ce0ec0a936bfd7657ef7e9b172a"
+  },
+  "inherits": {
+    "2.0.1": "b17d08d326b4423e568eff719f91b0b1cbdf69f1"
+  },
+  "ini": {
+    "1.3.3": "c07e34aef1de06aff21d413b458e52b21533a11e"
+  },
+  "jju": {
+    "1.2.0": "add5b586fec853b44929d78bf94864ab577c02e9"
+  },
+  "json-parse-helpfulerror": {
+    "1.0.3": "13f14ce02eed4e981297b64eb9e3b932e2dd13dc"
+  },
+  "lockdown": {
+    "0.0.6": "afa6ef1c8b7dc0ac5e2c4f7a09d80362a77c570f"
+  },
+  "lodash": {
+    "3.3.0": "011ce52d01b14e60eaeea76acb9b8ba42c70581b"
+  },
+  "minimatch": {
+    "2.0.7": "d23652ab10e663e7d914602e920e21f9f66492be"
+  },
+  "minimist": {
+    "0.0.8": "857fcabfc3397d2625b8228262e86aa7a011b05d"
+  },
+  "mkdirp": {
+    "0.5.0": "1d73076a6df986cd9344e15e71fcc05a4c9abf12"
+  },
+  "moment": {
+    "2.8.1": "2fc71c216c40af2b4b543cb168ba9a5f52996b0f"
+  },
+  "nopt": {
+    "3.0.1": "bce5c42446a3291f47622a370abbf158fbbacbfd"
+  },
+  "normalize-package-data": {
+    "1.0.3": "8be955b8907af975f1a4584ea8bb9b41492312f5"
+  },
+  "npmconf": {
+    "1.1.5": "07777bea48d78eed75a4258962a09f3dc7b6b916"
+  },
+  "once": {
+    "1.3.1": "f3f3e4da5b7d27b5c732969ee3e67e729457b31f"
+  },
+  "osenv": {
+    "0.1.0": "61668121eec584955030b9f470b1d2309504bfcb"
+  },
+  "path-is-absolute": {
+    "1.0.0": "263dada66ab3f2fb10bf7f9d24dd8f3e570ef912"
+  },
+  "proto-list": {
+    "1.2.3": "6235554a1bca1f0d15e3ca12ca7329d5def42bd9"
+  },
+  "read-installed": {
+    "3.1.0": "47075ba8828147ed495084df779f29a4329ad3df"
+  },
+  "read-package-json": {
+    "1.3.3": "ef79dfda46e165376ee8a57efbfedd4d1b029ba4"
+  },
+  "readdir-scoped-modules": {
+    "1.0.1": "5c2a77f3e08250a8fddf53fa58cdc17900b808b9"
+  },
+  "semver": {
+    "2.3.2": "b9848f25d6cf36333073ec9ef8856d42f1233e52",
+    "3.0.1": "720ac012515a252f91fb0dd2e99a56a70d6cf078"
+  },
+  "slide": {
+    "1.1.6": "56eb027d65b4d2dce6cb2e2d32c4d4afc9e1d707"
+  },
+  "uid-number": {
+    "0.0.5": "5a3db23ef5dbd55b81fce0ec9a2ac6fccdebb81e"
+  },
+  "util-extend": {
+    "1.0.1": "bb703b79480293ddcdcfb3c6a9fea20f483415bc"
+  },
+  "wrappy": {
+    "1.0.1": "1e65969965ccbc2db4548c6b84a6f2c5aedd4739"
+  }
+}
